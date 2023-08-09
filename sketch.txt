@@ -1,0 +1,43 @@
+#ESBOÇO
+funções a implementar
+histogram(estrutura iterável de números) -> estrutura de pares (valor, frequencia)
+mean(estrutura iterável de números) -> média aritmética
+gmean(estrutura iterável de números) -> média geométrica
+hmean(estrutura iterável de números) -> média harmônica
+wmean(estrutura iterável de números, estrutura iterável de pesos) -> média ponderada
+median(estrutura iterável de números) -> mediana
+mode(estrutura iterável de números) -> estrutura contendo as modas
+taxmean(estrutura iterável de números, caso={1,2,3}) -> média de acordo com os slides
+range(estrutura iterável de números) -> amplitude
+stddev(estrutura iterável de números) -> desvio-padrão
+var(estrutura iterável de números) -> variância
+cvar(estrutura iterável de números) -> coeficiente de variação
+quartile(estrutura iterável de números} -> conjunto iterável{Q1, Q2, Q3, distância interquartil}
+boxplot(precisa???)
+>> intervalo de confiança para a média
+>>teste de média zero(Z-test)
+>>estimar tamanho mínimo da amostra(estrutura iterável de números, nivel de confiança, largura do intervalo de confiança, desvio-padrao(opt))
+>>teste de normalidade (perguntar se pode importar ou se precisa construir)
+
+
+
+
+
+
+
+Here we are
+seven days and seven nights of empty tries
+#This ritual's
+#habitual
+but it's not gonna work this time
+WE'RE to the point of no return
+#and along the way the only thing we've learned
+is how we hurt each other
+
+I'm looking back
+and wondering why it took so long to realize
+that nothing's changed
+and never will
+all these years OF standing still
+AND still we stay IN ALL THIS PAIN
+AND NOTHING'S GONNA MAKE IT GO AWAY, YEAH
